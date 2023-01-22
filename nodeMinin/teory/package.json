@@ -1,0 +1,22 @@
+{
+  "name": "node-nj",
+  "version": "1.0.0",
+  "description": "node js first kurs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "nJ",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "4.1.2"
+  }
+}
